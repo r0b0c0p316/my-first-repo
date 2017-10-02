@@ -1,0 +1,17 @@
+commit 5529ad3b7fe7e8c2b8a73577f358f5f94def4d41
+Author: r0b0c0p316 <bmathias@gmail.com>
+Date:   Mon Oct 2 15:33:18 2017 -0500
+
+    added gitignore
+
+commit c5a5de902a00fc5dffe8e12181d5da7dcee07480
+Author: r0b0c0p316 <bmathias@gmail.com>
+Date:   Mon Oct 2 15:23:26 2017 -0500
+
+    added two files
+
+commit 6991e54671d291f214cb4b644d2fb88b04f70fa5
+Author: r0b0c0p316 <bmathias@gmail.com>
+Date:   Mon Oct 2 15:19:56 2017 -0500
+
+    added readme.txt
